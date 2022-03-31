@@ -1,0 +1,20 @@
+{
+  "name": "discord-js-emojify",
+  "version": "1.0.3",
+  "description": "Allows you to emojify an text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "emojify",
+    "text-emojify"
+  ],
+  "author": "Zilooo",
+  "license": "ISC",
+  "dependencies": {
+    "discord-js-emojify": "^1.0.0",
+    "discord.js": "^13.6.0"
+  }
+}
